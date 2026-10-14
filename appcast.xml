@@ -4,15 +4,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Pencil</title>
     <item>
-      <title>Pencil 0.1.6</title>
-      <pubDate>Wed, 14 Oct 2026 23:08:49 GMT</pubDate>
-      <sparkle:version>0.1.6</sparkle:version>
-      <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
+      <title>Pencil 0.1.7</title>
+      <pubDate>Wed, 14 Oct 2026 23:14:29 GMT</pubDate>
+      <sparkle:version>0.1.7</sparkle:version>
+      <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/aaronataq/pencil-releases/releases/download/v0.1.6/Pencil-0.1.6-arm64-mac.zip" length="129700137" type="application/octet-stream" sparkle:edSignature="CCNGIIwPIFU95n2yqR5DGMxDLNtLjGd9CI4pzKy4kGBw0RFfu/ps7mQlFkXFGsTq0Oo1WJaQnjJ7e4xbhR0iBQ=="></enclosure>
+      <enclosure url="https://github.com/aaronataq/pencil-releases/releases/download/v0.1.7/Pencil-0.1.7-arm64-mac.zip" length="129700109" type="application/octet-stream" sparkle:edSignature="jvvmoZP8FyofA1O5odh/7o5u2rP3wCds3jxURcl/WHDP0O8hil/r60FlWEiz4FU4GxY3jov1i1LqbFpFJ3JFAA=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: R96lItY0PYN6AnaGnwhrEkQ2SJymJJkhTT39ZHP5ASIx5bVVLfXLcbj6qiHrQSNZRa/nofgOR4XQy+9txCxRDA==
+edSignature: A5FONV2ADqAgcVvS4unKsg6iXEhHRSsFn4oiyeo/kT80T6FLLetHMJwKl7tgTkkAoiyPA21zsy2XfSStGiGTCw==
 length: 1031
 -->
